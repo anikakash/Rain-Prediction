@@ -7,3 +7,6 @@ RainTomorrow is the target variable to predict. It means -- did it rain the next
 
 # Data Set
 Data set taken form [kaggle ](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package)
+
+# About data set
+
